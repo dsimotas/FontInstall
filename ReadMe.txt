@@ -1,4 +1,4 @@
-Install fonts by running the following command below
+Install fonts for MacOS users by running the following command below
 
 This git serves as a host for the fonts
 
