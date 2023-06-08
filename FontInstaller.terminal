@@ -1,0 +1,17 @@
+cd /Library/Fonts && { 
+    curl -L -O 'https://github.com/FontHost/FontHost/raw/main/FolderHost/Archivo-Black.ttf'
+    curl -L -O 'https://github.com/FontHost/FontHost/raw/main/FolderHost/Archivo-Regular.ttf'
+    curl -L -O 'https://github.com/FontHost/FontHost/raw/main/FolderHost/Archivo_Condensed-Regular.ttf'
+    curl -L -O 'https://github.com/FontHost/FontHost/raw/main/FolderHost/RingsideCompressed-Thin.otf'
+    curl -L -O 'https://github.com/FontHost/FontHost/raw/main/FolderHost/RingsideCompressed-ThinItalic.otf'
+    curl -L -O 'https://github.com/FontHost/FontHost/raw/main/FolderHost/RingsideCondensed-Bold.otf'
+    curl -L -O 'https://github.com/FontHost/FontHost/raw/main/FolderHost/RingsideCondensed-BoldItalic.otf'
+    curl -L -O 'https://github.com/FontHost/FontHost/raw/main/FolderHost/RingsideCondensed-Book.otf'
+    curl -L -O 'https://github.com/FontHost/FontHost/raw/main/FolderHost/RingsideRegular-Bold.otf'
+    curl -L -O 'https://github.com/FontHost/FontHost/raw/main/FolderHost/RingsideRegular-BoldItalic.otf'
+    curl -L -O 'https://github.com/FontHost/FontHost/raw/main/FolderHost/RingsideRegular-Book.otf'
+    curl -L -O 'https://github.com/FontHost/FontHost/raw/main/FolderHost/RingsideRegular-BookItalic.otf'
+    curl -L -O 'https://github.com/FontHost/FontHost/raw/main/FolderHost/RingsideWide-Ultra.otf'
+    curl -L -O 'https://github.com/FontHost/FontHost/raw/main/FolderHost/RingsideWide-UltraItalic.otf'
+    curl -L -O 'https://github.com/FontHost/FontHost/raw/main/FolderHost/Archivo-Black.ttf'
+    cd -; }
