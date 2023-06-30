@@ -11,4 +11,4 @@ cd ~/Library/Fonts && {
     
 
 For the full script, see:
-https://github.com/FontHost/FontHost/blob/main/FontInstaller.terminal
+https://github.com/dsimotas/FontInstall/blob/main/FontInstaller.sh
